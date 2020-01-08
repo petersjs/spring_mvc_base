@@ -1,5 +1,6 @@
 package com.pluralsight.model;
 
+
 public class Activity {
 
 	private String desc;
